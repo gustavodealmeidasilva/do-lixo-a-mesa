@@ -8,6 +8,10 @@ O projeto **Do Lixo à Mesa** tem como objetivo promover a educação alimentar 
 
 A iniciativa está alinhada ao **Objetivo de Desenvolvimento Sustentável 12 (ODS 12)** da Organização das Nações Unidas, que busca incentivar padrões sustentáveis de produção e consumo.
 
+#Link do projeto
+
+https://gustavodealmeidasilva.github.io/do-lixo-a-mesa/
+
 ## Objetivos
 
 * Conscientizar sobre a fome no Brasil e no mundo.
